@@ -12,4 +12,4 @@ spring:
       ddl-auto: create-drop
 
 # application constants
-service.employyesearch.serviceId: question-service
+service.question.serviceId: question-service
